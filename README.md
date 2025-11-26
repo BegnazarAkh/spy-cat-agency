@@ -10,6 +10,12 @@ Requires Python 3.13. To have Python 3.13 locally run:
 pyenv shell 3.13
 ```
 
+# Clone the repository
+git clone https://github.com/BegnazarAkh/spy-cat-agency/
+
+# Change to the project directory
+cd spy-cat-agency
+
 ### 1. Environment Setup
 ```bash
 # Create and activate virtual environment
@@ -22,7 +28,7 @@ pip install -r requirements.txt
 # Copy environment file
 cp .env.example .env
 
-# Run migrations
+# Apply migrations (database schema is already defined)
 python manage.py migrate
 ```
 
