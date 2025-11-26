@@ -10,10 +10,10 @@ Requires Python 3.13. To have Python 3.13 locally run:
 pyenv shell 3.13
 ```
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/BegnazarAkh/spy-cat-agency/
 
-# Change to the project directory
+### Change to the project directory
 cd spy-cat-agency
 
 ### 1. Environment Setup
